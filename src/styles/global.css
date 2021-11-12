@@ -1,0 +1,103 @@
+
+.card{
+
+padding-top: 0em;
+display: flex;
+margin: 0 auto; 
+height: 25em;
+float: none; 
+margin-bottom: 2px; 
+background-color: rgb(13, 15, 34);
+background: linear-gradient(45deg, rgba(124, 108, 172, 0.973), rgba(242, 242, 248, 0.69) 80%);
+
+}
+form {
+   padding-top: 1em;
+   display: inline-block;
+   margin: 0 auto; 
+   float:none; 
+   margin-bottom: 20px;
+   
+}
+
+.navbartop{
+
+   padding-top: 0em;
+   background-color: rgb(13, 15, 34);
+   height: 10vh;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1em;
+   background-position: bottom;
+   
+   
+
+
+}
+.Container-fluid{
+
+padding-left: 30em;
+background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+background: linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 40%);
+top: 0!important;
+left: 0!important;
+transform: none!important;
+
+
+}
+.Navlink{
+
+   padding-left: 60em;
+ 
+
+}
+.Cardmain{
+
+
+     
+      padding-bottom: 3em;
+      padding-top: 2em;
+      background-position: center;
+      height: 30;
+      box-shadow: dimgray;
+     
+      
+
+}
+.bottompage{
+
+      background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+      background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+      background: linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 60%);
+      top: 0!important;
+      left: 0!important;
+      transform: none!important;
+      height: 50vh;
+     
+      padding-bottom: 2em;
+      padding-top: 2em;
+      background-position: bottom;
+}
+
+.formlabel{
+
+  
+   color: aliceblue;
+
+
+}
+.d-flex {
+
+   padding-left: 30em;
+}
+.navbar-expand .navbar-nav .nav-link {
+   padding-right: 0.5rem;
+   padding-left: 0.5rem;
+   padding-top: 1.5rem;
+
+
+}
+
+
+
+
